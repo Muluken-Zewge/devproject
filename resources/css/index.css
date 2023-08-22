@@ -13,6 +13,7 @@
 #gritter{
     color: blue;
     font-size: 100px;
+    background-color: aliceblue;
 }
 .bold{
     font-weight: 900;
